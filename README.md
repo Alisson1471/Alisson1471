@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou Alisson Alves 👋
+# Hi, I'm Alisson Alves 👋
 
-### Desenvolvedor com interesse em back-end, aplicações web e automação.
+### A developer interested in backend development, web applications, and automation.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alisson1471-181717?style=for-the-badge&logo=github)](https://github.com/Alisson1471)
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
+## 🙋‍♂️ About me
 
-- 💻 Gosto de aprender construindo projetos e resolvendo problemas práticos.
-- 🔧 Tenho explorado desenvolvimento back-end com Java e Spring Boot.
-- 🌐 Também faço projetos web com React e banco de dados PostgreSQL, para treino.
-- 🐍 Tenho projetos de estudo com Python, JavaScript e Docker.
-- 📌 Aqui você encontra aplicações, desafios e experimentos que venho desenvolvendo.
+- 💻 I enjoy learning by building projects and solving practical problems.
+- 🔧 I've been exploring backend development with Java and Spring Boot.
+- 🌐 I also build web projects with React and PostgreSQL to practice.
+- 🐍 I have projects where I explore Python, JavaScript, and Docker.
+- 📌 Here you'll find applications, challenges, and experiments I've been working on.
 
-## 🧰 Tecnologias e ferramentas
+## 🧰 Technologies and tools
 
 <div align="center">
 
@@ -32,12 +32,12 @@
 
 </div>
 
-## 📊 Atividade no GitHub
+## 📊 GitHub activity
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Alisson1471&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson1471&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisson1471&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisson1471&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -45,6 +45,6 @@
 
 <div align="center">
 
-### Obrigado pela visita! Fique à vontade para explorar meus repositórios ✨
+### Thanks for stopping by! Feel free to explore my repositories ✨
 
 </div>
