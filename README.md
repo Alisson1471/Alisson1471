@@ -14,7 +14,7 @@
 
 - 💻 Gosto de aprender construindo projetos e resolvendo problemas práticos.
 - 🔧 Tenho explorado desenvolvimento back-end com Java e Spring Boot.
-- 🌐 Também trabalho em projetos web com React e banco de dados PostgreSQL.
+- 🌐 Também faço projetos web com React e banco de dados PostgreSQL, para treino.
 - 🐍 Tenho projetos de estudo com Python, JavaScript e Docker.
 - 📌 Aqui você encontra aplicações, desafios e experimentos que venho desenvolvendo.
 
@@ -31,24 +31,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
-## 🚀 Projetos em destaque
-
-### 📚 [Sistema Web de Secretaria Escolar](https://github.com/Alisson1471/ProgramacaoAssincrona-Back)
-
-Aplicação full-stack para professores lançarem notas e observações, e alunos acompanharem seu boletim. O projeto usa React, Spring Boot, Java e PostgreSQL, com documentação da API via Swagger.
-
-### 📦 [ApiEstoque](https://github.com/Alisson1471/ApiEstoque)
-
-Projeto de API para praticar desenvolvimento back-end com Java.
-
-### 🐍 [pratica-devops-python](https://github.com/Alisson1471/pratica-devops-python)
-
-Repositório de prática com Python e temas de DevOps.
-
-### ⏱️ [timer-regressivo](https://github.com/Alisson1471/timer-regressivo)
-
-Projeto em JavaScript com um temporizador regressivo.
 
 ## 📊 Atividade no GitHub
 
